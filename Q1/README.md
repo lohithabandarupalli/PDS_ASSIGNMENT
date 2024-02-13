@@ -1,0 +1,4 @@
+The objective of the analysis  is to learn more about the frailty statistics. Based on a number of variables, including height, weight, age, and grip strength, this analysis was conducted. Three stages of approach were used to analyse this data. They are Data Collection, Data processing, and Data analysis. 
+
+
+The provided data was saved in the raw_data.csv file during the data collection stage. This raw data was uploaded into the Jupyter Notebook. The clean data was saved into clean_data.csv during the data processing stage, where the column data types were modified. This clean_data.csv file was the subject of analysis during the final step, the data analysis stage, and the results were recorded and stored in the results folder.

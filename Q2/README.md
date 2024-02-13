@@ -1,0 +1,3 @@
+A number of variables impact the academic success of students. A number of features such as gender, race/ethnicity, parental education levels, lunch type, etc., were taken into consideration and the analysis was done to gain insights into the academic achievement of the students. Three stages of approach were used to analyse this data. They are Data Collection, Data processing, and Data analysis. 
+
+The provided data was saved in the raw_data.csv file during the data collection stage. For further analysis, this raw data was imported into the Jupyter Notebook. After the raw data was cleaned during the data processing stage, it was saved in a file called Studentsperformance.csv. This Data was analysed further to gain various insights on the student academics.
